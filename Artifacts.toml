@@ -208,9 +208,9 @@ os = "windows"
 [[libcxxwrap_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "55b3eb5b24955f2171c0e24fe9c78d153305070d"
+git-tree-sha1 = "cb7fca204b9fa348e951c1e13d52284fe19e143f"
 os = "windows"
 
     [[libcxxwrap_julia.download]]
-    sha256 = "fd09e7b818cb1b3a54e2d48401eecece8b5eb1263bf3dd3a681cb427439646e3"
-    url = "https://github.com/JuliaBinaryWrappers/libcxxwrap_julia_jll.jl/releases/download/libcxxwrap_julia-v0.8.5+1/libcxxwrap_julia.v0.8.5.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "c48135428143205d59972bd2782c1086d099b7959d11df072cd7e65ed3923951"
+    url = "https://github.com/barche/libcxxwrap_julia_jll.jl/releases/download/libcxxwrap_julia-v0.8.6+0/libcxxwrap_julia.v0.8.6.x86_64-w64-mingw32-cxx11.tar.gz"
