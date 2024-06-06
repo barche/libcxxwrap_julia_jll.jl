@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `libcxxwrap_julia_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/JuliaInterop/libcxxwrap-julia.git (revision: `825a5c9d40286993d0a9473bdea9a4bf5ed84d97`)
+* git repository: https://github.com/JuliaInterop/libcxxwrap-julia.git (revision: `713b868038aa7078450b75614915990dcf7377a6`)
 
 ## Platforms
 
