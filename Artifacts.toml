@@ -1,9 +1,9 @@
 [[libcxxwrap_julia]]
 arch = "aarch64"
-git-tree-sha1 = "a9a6a7eaec3aaa89aa85946d00973238efd8e1f4"
+git-tree-sha1 = "c6337af61f8bfc709f8d8f2b482d60a0e89f2843"
 julia_version = "1.10.0"
 os = "macos"
 
     [[libcxxwrap_julia.download]]
-    sha256 = "1e66f1982ff75693a03b14350fd1f9c95f70cdc95759121141122c7576ba235a"
-    url = "https://github.com/barche/libcxxwrap_julia_jll.jl/releases/download/libcxxwrap_julia-v0.12.15+0/libcxxwrap_julia.v0.12.15.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "8fabb9ee19f1eb80255c9cf53b46ab49081063c2ed306ea132192101bbed5189"
+    url = "https://github.com/barche/libcxxwrap_julia_jll.jl/releases/download/libcxxwrap_julia-v0.12.16+0/libcxxwrap_julia.v0.12.16.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
