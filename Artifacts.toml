@@ -10,10 +10,10 @@ os = "macos"
 [[libcxxwrap_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aeb5108e7e6577e8fb9e2fb6eec84740454b05be"
+git-tree-sha1 = "b25ca4f71f0aa1af22efe12c1b89af9a2b3ccb4c"
 julia_version = "1.10.0"
 os = "windows"
 
     [[libcxxwrap_julia.download]]
-    sha256 = "b440bcf3f32007cb33901536ee2d9384836e5ec4a699ae1351ef753c2eaa9627"
-    url = "https://github.com/barche/libcxxwrap_julia_jll.jl/releases/download/libcxxwrap_julia-v0.12.20+0/libcxxwrap_julia.v0.12.20.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "f347a48b7d724e5d3452b8bb1f8e2bfc910ada3316a0860200f98e66d3af1338"
+    url = "https://github.com/barche/libcxxwrap_julia_jll.jl/releases/download/libcxxwrap_julia-v0.12.21+0/libcxxwrap_julia.v0.12.21.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
